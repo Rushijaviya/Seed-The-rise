@@ -1,5 +1,4 @@
 import java.util.*;
-
 abstract public class Winter {
     public static void Wheat() {
         Scanner scan = new Scanner(System.in);
