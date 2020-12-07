@@ -1,5 +1,4 @@
 import java.util.*;
-
 abstract public class Fruits {
 	public static void Mango() {
         Scanner scan = new Scanner(System.in);
