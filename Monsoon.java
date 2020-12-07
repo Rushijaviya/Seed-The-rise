@@ -3,7 +3,6 @@ abstract public class Monsoon {
     public static void Bajra() {
         Scanner scan = new Scanner(System.in);
         int choose;
-    
         while(true) {
             System.out.println("\n\t\t\t\t\t\t***** Which information do you need? ******");
             System.out.println("\n\t\t\t\t\t\t\t\t  1. Detail for this crop");
