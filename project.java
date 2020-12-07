@@ -6,7 +6,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 class user{
-    
     /* store name and password */
  
     public static void new_user() throws IOException{
