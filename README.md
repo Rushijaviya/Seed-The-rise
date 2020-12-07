@@ -1,1 +1,3 @@
-# Seed-The-rise
+# Seed:The rise
+
+This project is based on agriculture.
